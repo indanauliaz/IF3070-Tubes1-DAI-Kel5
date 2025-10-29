@@ -1,0 +1,165 @@
+{
+  "kapasitas_kontainer": 100,
+  "barang": [
+    {
+      "id": "BRG001",
+      "ukuran": 23
+    },
+    {
+      "id": "BRG002",
+      "ukuran": 37
+    },
+    {
+      "id": "BRG003",
+      "ukuran": 80
+    },
+    {
+      "id": "BRG004",
+      "ukuran": 74
+    },
+    {
+      "id": "BRG005",
+      "ukuran": 42
+    },
+    {
+      "id": "BRG006",
+      "ukuran": 54
+    },
+    {
+      "id": "BRG007",
+      "ukuran": 36
+    },
+    {
+      "id": "BRG008",
+      "ukuran": 26
+    },
+    {
+      "id": "BRG009",
+      "ukuran": 42
+    },
+    {
+      "id": "BRG010",
+      "ukuran": 72
+    },
+    {
+      "id": "BRG011",
+      "ukuran": 50
+    },
+    {
+      "id": "BRG012",
+      "ukuran": 17
+    },
+    {
+      "id": "BRG013",
+      "ukuran": 59
+    },
+    {
+      "id": "BRG014",
+      "ukuran": 36
+    },
+    {
+      "id": "BRG015",
+      "ukuran": 18
+    },
+    {
+      "id": "BRG016",
+      "ukuran": 45
+    },
+    {
+      "id": "BRG017",
+      "ukuran": 15
+    },
+    {
+      "id": "BRG018",
+      "ukuran": 15
+    },
+    {
+      "id": "BRG019",
+      "ukuran": 46
+    },
+    {
+      "id": "BRG020",
+      "ukuran": 29
+    },
+    {
+      "id": "BRG021",
+      "ukuran": 32
+    },
+    {
+      "id": "BRG022",
+      "ukuran": 42
+    },
+    {
+      "id": "BRG023",
+      "ukuran": 54
+    },
+    {
+      "id": "BRG024",
+      "ukuran": 19
+    },
+    {
+      "id": "BRG025",
+      "ukuran": 38
+    },
+    {
+      "id": "BRG026",
+      "ukuran": 63
+    },
+    {
+      "id": "BRG027",
+      "ukuran": 67
+    },
+    {
+      "id": "BRG028",
+      "ukuran": 34
+    },
+    {
+      "id": "BRG029",
+      "ukuran": 20
+    },
+    {
+      "id": "BRG030",
+      "ukuran": 78
+    },
+    {
+      "id": "BRG031",
+      "ukuran": 47
+    },
+    {
+      "id": "BRG032",
+      "ukuran": 47
+    },
+    {
+      "id": "BRG033",
+      "ukuran": 28
+    },
+    {
+      "id": "BRG034",
+      "ukuran": 54
+    },
+    {
+      "id": "BRG035",
+      "ukuran": 19
+    },
+    {
+      "id": "BRG036",
+      "ukuran": 31
+    },
+    {
+      "id": "BRG037",
+      "ukuran": 42
+    },
+    {
+      "id": "BRG038",
+      "ukuran": 33
+    },
+    {
+      "id": "BRG039",
+      "ukuran": 64
+    },
+    {
+      "id": "BRG040",
+      "ukuran": 66
+    }
+  ]
+}
