@@ -10,11 +10,11 @@ Proyek ini dibuat untuk memenuhi Tugas Besar 1 mata kuliah **IF3070 Dasar Inteli
 
 ## Anggota Kelompok
 
-| Nama | NIM |
-| :--- | :--- |
-| Vincentia Belinda Sumartoyo | 18223078 |
-| Indana Aulia Ayundazulfa | 18223100 |
-| Nurul Na'im Natifah | 18223106 |
+| Nama | NIM | Pembagian Tugas |
+| :--- | :--- | :--- |
+| Vincentia Belinda Sumartoyo | 18223078 | Implementasi Genetic Algorithm, Deskripsi Persoalan, Pembahasan |
+| Indana Aulia Ayundazulfa | 18223100 | Implementasi Hill-Climbing, Pembahasan |
+| Nurul Na'im Natifah | 18223106 | Implementasi Simulated Annealing, Pembahasan |
 
 ## Algoritma yang Diimplementasikan
 
