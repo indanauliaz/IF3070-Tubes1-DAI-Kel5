@@ -20,9 +20,9 @@ Proyek ini dibuat untuk memenuhi Tugas Besar 1 mata kuliah **IF3070 Dasar Inteli
 
 Program ini mengimplementasikan beberapa algoritma untuk menyelesaikan BPP:
 
-**1. Hill Climbing**
-**2. Simulated Annealing**
-**3. Genetic Algorithm**
+* **Hill-Climbing**
+* **Simulated Annealing**
+* **Genetic Algorithm**
 
 ## Cara Menjalankan Program
 
@@ -39,9 +39,9 @@ Program ini mengimplementasikan beberapa algoritma untuk menyelesaikan BPP:
     ```
 
 * `[namafile].py`: Ganti dengan nama file dari daftar di bawah ini:
-    * `sahc.py` (Steepest Ascent Hill Climbing)
-    * `shc.py` (Stochastic Hill Climbing)
-    * `fchc.py` (First Choice Hill Climbing)
-    * `rhc.py` (Random-Restart Hill Climbing)
-    * `sa.py` (Simulated Annealing)
-    * `ga.py` (Genetic Algorithm)
+    * `steepest_ascent.py` (Steepest Ascent Hill-Climbing)
+    * `sideways_move.py` (Hill-Climbing with Sideways Move)
+    * `random_restart.py` (Random Restart Hill-Climbing)
+    * `stochastic.py` (Stochastic Hill-Climbing)
+    * `simulated_annealing.py` (Simulated Annealing)
+    * `genetic_algorithm.py` (Genetic Algorithm)
