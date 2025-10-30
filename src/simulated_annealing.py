@@ -14,7 +14,7 @@ BIN_COUNT_FACTOR = 100
 # Parameter Simulated Annealing
 TEMP_START = 100.0
 COOLING_RATE = 0.99999
-MAX_ITER = 500000
+MAX_ITER = 100
 
 class BinPackingSA:
     def __init__(self, containers):
@@ -238,4 +238,5 @@ if __name__ == "__main__":
         print(f"Rasio Penerimaan Move Buruk: {stuck_counter / MAX_ITER:.4f}")
 
         print_state(best_solution, "State Akhir (Terbaik)")
+
         plot_sa(history_data, run)
