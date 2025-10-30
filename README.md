@@ -1,4 +1,3 @@
-# IF3070-Tubes1-DAI-Kel5
 # Tugas Besar 1 IF3070: Bin Packing Problem dengan Local Search
 
 ## Deskripsi Proyek
@@ -29,7 +28,7 @@ Program ini mengimplementasikan beberapa algoritma untuk menyelesaikan BPP:
 
 1.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/indanauliaz/IF3070-Tubes1-DAI-Kel5.git](https://github.com/indanauliaz/IF3070-Tubes1-DAI-Kel5.git)
+    git clone [https://github.com/indanauliaz/IF3070-Tubes1-DAI-Kel5.git]
     ```
 2.  Masuk ke direktori proyek:
     ```bash
